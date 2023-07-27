@@ -1,0 +1,53 @@
+.navbar-brand h1{
+    margin-top: 0px;
+    
+    padding-bottom: 15px;
+}
+body{
+    font-family: comic,cursive;
+}
+
+#header-nav .navbar-default .navbar{
+    background-color: #ffd000;
+}
+.navbar-header{
+    height: 70px;
+    background-color: #ffd000;
+}
+.navbar-default{
+    background-color: #ffd000;
+}
+
+.row{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#nav-list{
+    background-color:rgb(0, 181, 181);
+}
+#nav-list li a{
+    color: white;
+    font-size: medium;
+    font-style: bold;
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 2px;
+}
+
+
+.tall{
+    height: 700px;
+    background-color: teal;
+    border: 2px solid black;
+    color: white;
+    font-family: comic,cursive;
+    margin-left : 0;
+    margin-right: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#content{
+    position:relative;
+}
